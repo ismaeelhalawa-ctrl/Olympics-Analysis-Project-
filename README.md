@@ -11,3 +11,5 @@ Analysis Results:
 1) The analysis showed a continuous increase in the number of participants in the Olympic Games from 1896 to 2016, indicating the Games' sharp growth and expansion.
 2) The analysis also showed a greater increase in the number of participants in the summer than in the winter.
 3) The analysis also showed changes in the distribution of medals over the years. In the early Games, medals were concentrated among a specific number of countries, but over time, this distribution expanded due to the increased number of participating countries
+
+(You can get the data form Kaggle (athelete events dataset)).
